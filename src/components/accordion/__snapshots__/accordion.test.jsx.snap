@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordion Accordion renders correctly 1`] = `
+<div
+  class="wrapper"
+>
+  <ul
+    class="list"
+  >
+    <li
+      class="item"
+    >
+      <button
+        class="button"
+        type="button"
+      >
+        <div
+          class="buttonText"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipisicing.
+        </div>
+        <div
+          class="buttonIcon"
+        >
+          ↞
+        </div>
+      </button>
+      <div
+        class="content"
+        style="max-height: 0px;"
+      >
+        <div
+          class="contentText"
+        >
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aut debitis, dolore, eveniet facilis illum ipsam, iste quasi quisquam sint sunt totam voluptate voluptatem voluptatibus voluptatum. Asperiores, atque aut beatae delectus eius eos hic, ipsa nam numquam odio officia temporibus voluptate. Aliquam at saepe sed sequi tenetur. Accusantium dolor doloremque eaque esse ipsam quae qui quidem! Accusantium deleniti, doloremque fugiat harum impedit maxime quae quis velit? Aperiam blanditiis dolorem esse ex excepturi expedita illo incidunt ipsa minima molestias nisi nostrum quos rerum, sunt tempore totam ut. Ab aliquid at consequuntur deserunt dolorum, eos ipsa obcaecati, perspiciatis ratione tempore unde ut.
+          </p>
+        </div>
+      </div>
+    </li>
+    <li
+      class="item"
+    >
+      <button
+        class="button"
+        type="button"
+      >
+        <div
+          class="buttonText"
+        >
+          Lorem ipsum.
+        </div>
+        <div
+          class="buttonIcon rotated"
+        >
+          ↞
+        </div>
+      </button>
+      <div
+        class="content"
+        style="max-height: 0px;"
+      >
+        <div
+          class="contentText"
+        >
+          <p>
+            Lorem ipsum dolor sit amet.
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto cum dolorem, earum, error illo ipsum maiores nam nesciunt nobis quasi quidem saepe tempora. Animi consequatur exercitationem odio perspiciatis qui unde?
+          </p>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+`;
